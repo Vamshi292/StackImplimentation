@@ -1,0 +1,4 @@
+C:\Users\Vamshi Krishna\Documents\Visual Studio 2013\Projects\DotNet\DotnetProjects\StackImplementation\bin\Debug\StackImplementation.dll
+C:\Users\Vamshi Krishna\Documents\Visual Studio 2013\Projects\DotNet\DotnetProjects\StackImplementation\bin\Debug\StackImplementation.pdb
+C:\Users\Vamshi Krishna\Documents\Visual Studio 2013\Projects\DotNet\DotnetProjects\StackImplementation\obj\Debug\StackImplementation.dll
+C:\Users\Vamshi Krishna\Documents\Visual Studio 2013\Projects\DotNet\DotnetProjects\StackImplementation\obj\Debug\StackImplementation.pdb
